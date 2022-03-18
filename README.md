@@ -1,12 +1,9 @@
 
-<img src="https://user-images.githubusercontent.com/90023420/159085145-6828e081-ec08-467d-a103-cf855f943260.svg" width="auto" height="auto" />
-
-<p align='center'>
-  <a href="www.linkedin.com/in/micaelarosa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<img src="https://user-images.githubusercontent.com/90023420/159089760-b236613c-fa04-4fcf-a2d7-da4207b923d8.png" />
 
 
-<hr>
+
+
 
 <h4> 👩🏻‍💻 I can work with...</h4>
 
@@ -25,7 +22,15 @@
 ![Arduino](https://img.shields.io/static/v1?style=for-the-badge&message=Arduino&color=00979D&logo=Arduino&logoColor=FFFFFF&label=) ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=) ![Django](https://img.shields.io/static/v1?style=for-the-badge&message=Django&color=092E20&logo=Django&logoColor=FFFFFF&label=) ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=) ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=) ![Unity](https://img.shields.io/static/v1?style=for-the-badge&message=Unity&color=222222&logo=Unity&logoColor=FFFFFF&label=)
 </p>
 
+<hr>
 
+<h4> U can find me in...</h4>
+
+<p >
+
+<a href="www.linkedin.com/in/micaelarosa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+</p>
 <!---
 KukuRos/KukuRos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
