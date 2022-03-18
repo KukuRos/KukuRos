@@ -35,8 +35,9 @@
 
 <p >
 
-<a href="www.linkedin.com/in/micaelarosa"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+  
+[![LinkedIn](https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=)](https://www.linkedin.com/in/micaelarosa)
 </p>
 <!---
 KukuRos/KukuRos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
