@@ -31,7 +31,7 @@
 
 <hr>
 
-<h4> U can find me in...</h4>
+<h4> You can find me in...</h4>
 
 <p >
 
