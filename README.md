@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/90023420/159089760-b236613c-fa04-4fcf-a2d7-da4207b923d8.png" />
+<img src="https://i.imgur.com/SStHgbq.png" />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KukuRos&theme=radical" />
